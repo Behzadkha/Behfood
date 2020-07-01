@@ -1,6 +1,6 @@
 # BehFood
 https://behfood-af5a2.web.app/
-
+<img src="BehfoodWebsite.PNG" />
 Collaborator: my twin brother: Behdad
 This Website is Similar to kijiji but it is only for homemade foods. People can advertise for their homemade foods and make money by selling them. 
 
